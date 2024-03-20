@@ -1,7 +1,7 @@
 <h1 align="center"> WebDesignAgency </h1>
 
 <p align="center">
-Repositório criado com o objetivo de conhecer mais sobre display e responsividade.<br/>
+Repositório criado com o objetivo de se aprofundar mais sobre display e responsividade.<br/>
 </p>
 
 <p align="center">
